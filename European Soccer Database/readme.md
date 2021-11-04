@@ -1,5 +1,6 @@
 Introduction
-The ultimate Soccer database for data analysis and machine learning
+The ultimate Soccer database for data analysis and machine learning.
+Can get the database from : https://www.kaggle.com/hugomathien/soccer
 -----------------------------
 ## What you get:
 
